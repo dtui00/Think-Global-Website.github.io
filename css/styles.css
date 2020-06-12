@@ -76,13 +76,13 @@
 }
 
 .round-button:hover{ 
-  background-color: #E6FFB2;
+  background-color: #D8EEAA;
 	color: #b49bbd; 
 }
 	
 
 .round-button:active{
-    background:#A4C06E;
+    background: #D6E695;
 }
 
 
